@@ -2,6 +2,7 @@
 Hi 👋 My name is Thiago 
 
 🌍 I'm from in Minas Gerais, Brasil
+
 ✉️ Você pode entrar em contato comigo pelo e-mail thiagoxavieraguilar1@gmail.com
 
 
