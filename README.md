@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**thiagoxavieraguilar/thiagoxavieraguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Thiago 
 
-Here are some ideas to get you started:
+🌍 I'm from in Minas Gerais, Brasil
+✉️ You can contact me at guilhermomasid@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills
+
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
