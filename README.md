@@ -7,12 +7,16 @@ Hi 👋 My name is Thiago
 
 
 ## Skills
+![image](https://user-images.githubusercontent.com/71942038/197104207-9f5c1188-a3bb-43ee-978e-80b9aee736dc.png)
 
 ![image](https://user-images.githubusercontent.com/71942038/197103872-17ef4bfd-d9e8-453a-a671-9b94a649fe8b.png)
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue 
-https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+![image](https://user-images.githubusercontent.com/71942038/197104247-9f0a9d0a-61b0-4989-99e1-f2de1731613c.png)
+
+![image](https://user-images.githubusercontent.com/71942038/197104484-03d98c71-e066-466b-b86e-b5b0959b7b4f.png)
+
+![image](https://user-images.githubusercontent.com/71942038/197104516-28005bab-f80a-4c83-8bd2-e0d1afe69339.png)
+
+![image](https://user-images.githubusercontent.com/71942038/197104385-43e935f4-8b44-4d96-95f9-f1d64940c9f7.png)
+
+![image](https://user-images.githubusercontent.com/71942038/197104358-dd0a64af-099c-4d89-b787-88c83d0e2a7a.png)
