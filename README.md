@@ -14,7 +14,6 @@ Hi 👋 My name is Thiago
 ![image](https://user-images.githubusercontent.com/71942038/197104484-03d98c71-e066-466b-b86e-b5b0959b7b4f.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104516-28005bab-f80a-4c83-8bd2-e0d1afe69339.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104385-43e935f4-8b44-4d96-95f9-f1d64940c9f7.png)
-![image](https://user-images.githubusercontent.com/71942038/197104358-dd0a64af-099c-4d89-b787-88c83d0e2a7a.png)
 
 
 <b>My GitHub Stats</b>
