@@ -3,13 +3,12 @@ Hi 👋 My name is Thiago
 
 🌍 I'm from in Minas Gerais, Brasil
 
-✉️ Você pode entrar em contato comigo pelo e-mail thiagoxavieraguilar1@gmail.com
+✉️ e-mail thiagoxavieraguilar1@gmail.com
 
 
 
 ## Skills
 ![image](https://user-images.githubusercontent.com/71942038/197104207-9f5c1188-a3bb-43ee-978e-80b9aee736dc.png)
-![image](https://user-images.githubusercontent.com/71942038/197103872-17ef4bfd-d9e8-453a-a671-9b94a649fe8b.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104247-9f0a9d0a-61b0-4989-99e1-f2de1731613c.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104484-03d98c71-e066-466b-b86e-b5b0959b7b4f.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104516-28005bab-f80a-4c83-8bd2-e0d1afe69339.png)
