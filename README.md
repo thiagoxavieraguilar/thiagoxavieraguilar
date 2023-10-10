@@ -20,7 +20,7 @@ Hi 👋 My name is Thiago
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thiagoxavieraguilar"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=thiagoxavier&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="thiagoxavieraguilar's GitHub stats" /></a>
+<a href="http://www.github.com/thiagoxavieraguilar"><img src="https://github-readme-stats-peguimasid.vercel.app/api /username=thiagoxavier&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="thiagoxavieraguilar's GitHub stats" /></a>
 
 
 
