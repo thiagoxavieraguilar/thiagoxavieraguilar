@@ -15,4 +15,3 @@ Hi 👋 My name is Thiago
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white.png)
 ![image](https://user-images.githubusercontent.com/71942038/197104247-9f0a9d0a-61b0-4989-99e1-f2de1731613c.png)
-![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white.png)
