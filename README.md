@@ -1,10 +1,6 @@
 
 Hi 👋 My name is Thiago 
 
-🌍 I'm from in Minas Gerais, Brasil
-
-✉️ e-mail thiagoxavieraguilar1@gmail.com
-
 
 
 ## Skills
